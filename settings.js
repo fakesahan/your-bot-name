@@ -13,7 +13,7 @@ global.DocumentTitle = "MASTER⚔️PIKA"
 
 
 global.ownername = "Sahan Official"   // Owner name //        
-global.ownernumber = ['94770591348'] 
+global.ownernumber = ['94772270416'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
@@ -26,7 +26,7 @@ global.email = "example@exmaple.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['916900******','917355******']  // available soon
+global.premium = ['94772270416','94772270416']  // available soon
 global.sudo = ['916900******','917355******']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
